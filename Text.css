@@ -1,0 +1,146 @@
+/*-- Body color --*/
+body{
+    background-color: #f3f3f3;
+    margin: 0%;
+}
+
+
+/*-- Navigation bar --*/
+
+ .nav ul  { 
+    list-style-type: none;
+    float: right;
+}
+.nav ul li {
+    float: left;
+    margin: 20px;
+ }   
+ nav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px; cursor: pointer; margin-right: 30px;
+
+ }
+
+ /*-- end div --*/
+
+ .divend{
+    clear: both;
+ }
+
+  /*-- img section --*/
+img {
+     height: 600px;
+     width: 600px;
+     margin-top: 100px; 
+     margin-left: 300px;    
+  }
+  /*-- detalls section --*/
+#detalls{
+   margin-top: 200px;
+}
+
+
+
+main section{
+float: left;
+   width: 50%;
+   box-sizing: border-box;
+}
+
+h1{ font-size: 100px;}
+h2{ font-size: 50px;}
+h4{font-size: 20px;}
+h1,h2,h4{ line-height: 0%;}
+
+.circle1{
+   margin-top: 10px;
+   margin-right: 10px;
+   float: left;
+   height: 150px;
+   width: 150px;
+   border-radius: 50%;
+   background-color: orange;
+border: 2px solid  black;
+cursor: pointer;}
+   
+.circle1:hover{
+   border: 5px solid black;
+   text-decoration: wavy; background-color: #f3f3f3;
+}
+   
+   .circle2{
+      margin: 10px;
+      height: 150px;
+      width: 150px;
+      border-radius: 50%;
+      background-color: red;
+      float: left;border: 2px solid  black;cursor: pointer;
+   }
+   .circle2:hover{
+      border: 5px solid black;
+      text-decoration: wavy; background-color: #f3f3f3;
+   }
+      
+   
+      .circle3{
+         margin: 10px;
+         float: left;
+         height: 150px;
+         width: 150px;
+         border-radius: 50%;
+         background-color: skyblue;border: 2px solid  black;cursor: pointer;}
+  
+         .circle3:hover{
+            border: 5px solid black;
+            text-decoration: wavy;
+            background-color: #f3f3f3;
+         }
+
+         h3{font-style: italic; margin-left: 35px;
+            margin-top: 60px; font-size: 25px;}
+   
+            /*--footer--*/
+
+            footer{ cursor: pointer;
+            
+            }
+
+
+            hr{
+               margin-left: 50px;
+               margin-right: 50px;
+               }
+         
+      .phone { 
+         
+         margin-left: 100px;
+         margin-bottom: 50px;
+         line-height: 0%; color:       
+      }
+         h5{ font-size: 20px;
+         text-decoration: none;
+         }
+
+         .email{
+            line-height: 0%; 
+          
+         }
+
+         footer section{ 
+            width: 25%;float: left;
+         }
+.social ul li{  
+   list-style-type: none;
+   margin-top: 0%;
+  
+   
+    
+}
+
+.copy {
+   margin-top: 50px;
+}
+
+#link:hover{
+text-decoration: underline;
+}

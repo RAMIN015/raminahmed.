@@ -1,0 +1,80 @@
+body{
+    background-color: #f3f3f3
+;
+}
+/*-- Navigation bar --*/
+
+.nav ul  { 
+    list-style-type: none;
+    float: right;
+}
+.nav ul li {
+    float: left;
+    margin: 20px;
+ }   
+ nav {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px; cursor: pointer; margin-right: 30px;
+
+ }
+
+ /*-- end div --*/
+
+ .divend{
+    clear: both;
+ }
+
+
+ .project{
+    font-size: 30px;
+    margin-left: 150px;
+    margin-bottom: 1000px;
+ }
+
+ .divend{
+    clear: both;
+ }
+/*footer section*/
+ footer{ cursor: pointer;
+            
+ }
+
+
+ hr{
+    margin-left: 50px;
+    margin-right: 50px;
+    }
+
+.phone { 
+
+margin-left: 100px;
+margin-bottom: 50px;
+line-height: 0%; color:       
+}
+h5{ font-size: 20px;
+text-decoration: none;
+}
+
+.email{
+ line-height: 0%; 
+
+}
+
+footer section{ 
+ width: 25%;float: left;
+}
+.social ul li{  
+list-style-type: none;
+margin-top: 0%;
+
+
+
+}
+
+.copy {
+margin-top: 50px;
+}
+
+#link:hover{
+text-decoration: underline;
+}
